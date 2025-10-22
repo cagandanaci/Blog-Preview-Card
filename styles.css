@@ -60,6 +60,7 @@ main {
     color: black;
     font-weight: 700;
     line-height: 30px;
+    font-size: 12px;
 }
 .type:hover {
     background-color: hsl(47, 74%, 57%);
@@ -106,4 +107,5 @@ p:hover {
 }
 .writer-info:hover {
     text-decoration: underline;
+
 }
